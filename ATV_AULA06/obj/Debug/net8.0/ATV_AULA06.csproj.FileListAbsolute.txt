@@ -1,0 +1,15 @@
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.AssemblyInfoInputs.cache
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.AssemblyInfo.cs
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.csproj.CoreCompileInputs.cache
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.sourcelink.json
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/bin/Debug/net8.0/ATV_AULA06
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/bin/Debug/net8.0/ATV_AULA06.deps.json
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/bin/Debug/net8.0/ATV_AULA06.runtimeconfig.json
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/bin/Debug/net8.0/ATV_AULA06.dll
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/bin/Debug/net8.0/ATV_AULA06.pdb
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.dll
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/refint/ATV_AULA06.dll
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.pdb
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ATV_AULA06.genruntimeconfig.cache
+/workspaces/DEV_AvancadoGSR/ATV_AULA06/obj/Debug/net8.0/ref/ATV_AULA06.dll
