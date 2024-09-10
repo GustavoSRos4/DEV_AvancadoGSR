@@ -1,0 +1,15 @@
+/workspaces/DEV_AvancadoGSR/aula09/bin/Debug/net8.0/aula09
+/workspaces/DEV_AvancadoGSR/aula09/bin/Debug/net8.0/aula09.deps.json
+/workspaces/DEV_AvancadoGSR/aula09/bin/Debug/net8.0/aula09.runtimeconfig.json
+/workspaces/DEV_AvancadoGSR/aula09/bin/Debug/net8.0/aula09.dll
+/workspaces/DEV_AvancadoGSR/aula09/bin/Debug/net8.0/aula09.pdb
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.AssemblyInfoInputs.cache
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.AssemblyInfo.cs
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.csproj.CoreCompileInputs.cache
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.sourcelink.json
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.dll
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/refint/aula09.dll
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.pdb
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/aula09.genruntimeconfig.cache
+/workspaces/DEV_AvancadoGSR/aula09/obj/Debug/net8.0/ref/aula09.dll
