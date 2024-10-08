@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GustavoSilverio\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GustavoSilverio\\Documents\\a\\DEV_AvancadoGSR\\aula05\\aula05.csproj",
+      "projectUniqueName": "/workspaces/DEV_AvancadoGSR/aula05/aula05.csproj",
       "projectName": "aula05",
-      "projectPath": "C:\\Users\\GustavoSilverio\\Documents\\a\\DEV_AvancadoGSR\\aula05\\aula05.csproj",
-      "packagesPath": "C:\\Users\\GustavoSilverio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GustavoSilverio\\Documents\\a\\DEV_AvancadoGSR\\aula05\\obj\\",
+      "projectPath": "/workspaces/DEV_AvancadoGSR/aula05/aula05.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/DEV_AvancadoGSR/aula05/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GustavoSilverio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
